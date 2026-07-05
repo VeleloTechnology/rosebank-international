@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 Rosebank International — University Website
+# 🎓 Rosebank International — University Website Clone
 
 ### A single-page site with a live student &amp; tutor attendance portal
 
@@ -32,7 +32,7 @@ students attended each day, what topic was covered, and how well the class under
 | **Careers** | Open lecturer / tutor / support-staff roles per faculty |
 | **Student &amp; Tutor Portal** | Weekly attendance register — add students, tick daily attendance, track class understanding % |
 | **Contact** | Campus address, admissions/careers email, phone hours |
-|**Link** https://github.com/VeleloTechnology/rosebank-international |
+|**Link** | https://velelotechnology.github.io/rosebank-international/ |
 
 ## ✨ Features
 
